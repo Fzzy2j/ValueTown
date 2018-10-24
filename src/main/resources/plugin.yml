@@ -1,0 +1,4 @@
+name: SomeStuff
+version: ${project.version}
+main: me.fzzy.stuff.somestuff.SomeStuff
+api-version: 1.13
